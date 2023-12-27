@@ -1,0 +1,15 @@
+C:\Users\GIGABYTE\source\repos\QUANLYTHUEPHONG\BUS\bin\Debug\BUS.dll.config
+C:\Users\GIGABYTE\source\repos\QUANLYTHUEPHONG\BUS\bin\Debug\BUS.dll
+C:\Users\GIGABYTE\source\repos\QUANLYTHUEPHONG\BUS\bin\Debug\BUS.pdb
+C:\Users\GIGABYTE\source\repos\QUANLYTHUEPHONG\BUS\bin\Debug\DAL.dll
+C:\Users\GIGABYTE\source\repos\QUANLYTHUEPHONG\BUS\bin\Debug\EntityFramework.dll
+C:\Users\GIGABYTE\source\repos\QUANLYTHUEPHONG\BUS\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\GIGABYTE\source\repos\QUANLYTHUEPHONG\BUS\bin\Debug\DAL.pdb
+C:\Users\GIGABYTE\source\repos\QUANLYTHUEPHONG\BUS\bin\Debug\DAL.dll.config
+C:\Users\GIGABYTE\source\repos\QUANLYTHUEPHONG\BUS\bin\Debug\EntityFramework.xml
+C:\Users\GIGABYTE\source\repos\QUANLYTHUEPHONG\BUS\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\GIGABYTE\source\repos\QUANLYTHUEPHONG\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+C:\Users\GIGABYTE\source\repos\QUANLYTHUEPHONG\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+C:\Users\GIGABYTE\source\repos\QUANLYTHUEPHONG\BUS\obj\Debug\BUS.csproj.CopyComplete
+C:\Users\GIGABYTE\source\repos\QUANLYTHUEPHONG\BUS\obj\Debug\BUS.dll
+C:\Users\GIGABYTE\source\repos\QUANLYTHUEPHONG\BUS\obj\Debug\BUS.pdb

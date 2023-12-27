@@ -1,0 +1,12 @@
+C:\Users\GIGABYTE\source\repos\QUANLYTHUEPHONG\DAL\bin\Release\DAL.dll.config
+C:\Users\GIGABYTE\source\repos\QUANLYTHUEPHONG\DAL\bin\Release\DAL.dll
+C:\Users\GIGABYTE\source\repos\QUANLYTHUEPHONG\DAL\bin\Release\DAL.pdb
+C:\Users\GIGABYTE\source\repos\QUANLYTHUEPHONG\DAL\bin\Release\EntityFramework.dll
+C:\Users\GIGABYTE\source\repos\QUANLYTHUEPHONG\DAL\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\GIGABYTE\source\repos\QUANLYTHUEPHONG\DAL\bin\Release\EntityFramework.xml
+C:\Users\GIGABYTE\source\repos\QUANLYTHUEPHONG\DAL\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\GIGABYTE\source\repos\QUANLYTHUEPHONG\DAL\obj\Release\DAL.csproj.AssemblyReference.cache
+C:\Users\GIGABYTE\source\repos\QUANLYTHUEPHONG\DAL\obj\Release\DAL.csproj.CoreCompileInputs.cache
+C:\Users\GIGABYTE\source\repos\QUANLYTHUEPHONG\DAL\obj\Release\DAL.csproj.CopyComplete
+C:\Users\GIGABYTE\source\repos\QUANLYTHUEPHONG\DAL\obj\Release\DAL.dll
+C:\Users\GIGABYTE\source\repos\QUANLYTHUEPHONG\DAL\obj\Release\DAL.pdb
